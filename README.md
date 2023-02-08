@@ -1,47 +1,18 @@
 # API-database-testcase
-<h5>API Creation & Integration</h5>
-By Vaishnavi Tyagi
+![Screenshot (39)](https://user-images.githubusercontent.com/123761898/217493430-c9d35d65-4936-43fc-88ec-0213f4bd1cce.png)
 
-Star this repository if you like this project
+![Screenshot (38)](https://user-images.githubusercontent.com/123761898/217493483-628f1d70-c301-4aeb-b4db-9a79ca393b31.png)
 
-Open browser tab and visit the localhost at the port 
-http://localhost:5500/
-Browse different routes/paths/wepages using below links
-http://localhost:5500/ashneer
-http://localhost:5500/aman
-http://localhost:5500/vineeta
-http://localhost:5500/namita
-http://localhost:5500/ghazal
-http://localhost:5500/peyush
+![Screenshot (37)](https://user-images.githubusercontent.com/123761898/217493535-3c75073b-7a17-4e4e-a631-425d179f0d7e.png)
 
+![Screenshot (36)](https://user-images.githubusercontent.com/123761898/217493565-532cf8bd-6d10-4948-926b-e37d05d4310e.png)
 
+![Screenshot (35)](https://user-images.githubusercontent.com/123761898/217493637-943e03f1-11fc-4582-8fb4-32fbabe379b9.png)
 
-Project Preview
-Image (Screenshot) preview :
+![Screenshot (34)](https://user-images.githubusercontent.com/123761898/217493692-386d9ed3-7eb1-4e3e-80c5-91eb79bfced8.png)
 
-http://localhost:4000/
-![Screenshot (50)](https://user-images.githubusercontent.com/123761898/217490333-f69b0df4-ec64-46e4-b2d9-a199dddbfad0.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/123761898/217493745-24ec08cc-c766-406a-982a-72422aa89a93.png)
+
+![Screenshot (58)](https://user-images.githubusercontent.com/123761898/217494315-fbf0a05e-e506-4e84-b3d7-3a8585bc3485.png)
 
 
-http://localhost:5500/ashneer
-![Screenshot (42)](https://user-images.githubusercontent.com/123761898/217491125-0c0e90d8-e833-4990-8b13-cb7214c13042.png)
-
-
-http://localhost:5500/anupam
-![Screenshot (43)](https://user-images.githubusercontent.com/123761898/217490998-1fe60ce0-ec58-4dbc-8be7-09a186946484.png)
-
-
-http://localhost:5500/aman
-![Screenshot (44)](https://user-images.githubusercontent.com/123761898/217490894-6dbc53d8-ce07-406b-8bad-ba36e063bbed.png)
-
-http://localhost:5500/vineeta
-![Screenshot (45)](https://user-images.githubusercontent.com/123761898/217490822-d87c1b1c-6c6f-4d4f-b32b-b40e84203bd9.png)
-
-http://localhost:5500/namita
-![Screenshot (46)](https://user-images.githubusercontent.com/123761898/217490779-2678b815-e213-4110-847a-ab4114399afa.png)
-
-http://localhost:5500/ghazal
-![Screenshot (47)](https://user-images.githubusercontent.com/123761898/217490713-edb95eb1-fe1b-4f99-ba1c-638219b56b85.png)
-
-http://localhost:5500/peyush
-![Screenshot (48)](https://user-images.githubusercontent.com/123761898/217490584-cf6ebae5-e8cd-44a5-a2be-adfe3d6803b4.png)
